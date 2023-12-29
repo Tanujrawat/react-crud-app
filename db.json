@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "name1",
+      "email": "2019004893.prashant@ug.sharda.ac.in",
+      "contact": "45345345345435",
+      "address": "agra",
+      "id": 1
+    },
+    {
+      "name": "name2",
+      "email": "dfdsfs@2001",
+      "contact": "45353453",
+      "address": "london",
+      "id": 2
+    }
+  ]
+}
